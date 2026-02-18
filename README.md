@@ -1,6 +1,6 @@
 # Sanad App 📱
 
-![Sanad Application](assets/images/sanad.jpg)
+![Sanad Application](assets/images/sanad.png)
 
 Sanad is a comprehensive Flutter-based application designed to help users manage their daily tasks, deadlines, and notifications effectively. It integrates modern technologies like Firebase for backend services and Google's Gemini AI for intelligent assistance.
 
@@ -62,9 +62,3 @@ Because this project uses Firebase and Gemini API, you need to provide your own 
 ```bash
 flutter run
 ```
-
-## 📸 Screenshots
-*(Add more screenshots here if available)*
-
-## 📄 License
-This project is licensed under the MIT License.
